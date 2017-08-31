@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/test/resources/mac
+END
+main%%sub1%%subsub1.crate
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/test/resources/mac/main%25%25sub1%25%25subsub1.crate
+END
+small.crate
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/test/resources/mac/small.crate
+END
+main%%sub1.crate
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/test/resources/mac/main%25%25sub1.crate
+END
+large.crate
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/test/resources/mac/large.crate
+END
+main%%sub2.crate
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/test/resources/mac/main%25%25sub2.crate
+END

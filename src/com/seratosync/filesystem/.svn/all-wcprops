@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/com/seratosync/filesystem
+END
+MediaLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/com/seratosync/filesystem/MediaLibrary.java
+END
+FileDirectoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/com/seratosync/filesystem/FileDirectoryUtils.java
+END
+Drive.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/com/seratosync/filesystem/Drive.java
+END

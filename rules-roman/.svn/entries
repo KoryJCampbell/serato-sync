@@ -1,0 +1,28 @@
+10
+
+dir
+0
+https://serato-sync.googlecode.com/svn/trunk/rules-roman
+https://serato-sync.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6427c4b1-9f77-ce4d-7c45-b27586971272
+
